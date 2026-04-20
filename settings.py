@@ -24,4 +24,3 @@ INSTALLED_APPS = [
 MIGRATION_MODULES = {
     "db": None,
 }
-
