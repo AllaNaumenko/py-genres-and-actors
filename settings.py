@@ -20,3 +20,8 @@ USE_TZ = False
 INSTALLED_APPS = [
     "db",
 ]
+
+MIGRATION_MODULES = {
+    "db": None,
+}
+
